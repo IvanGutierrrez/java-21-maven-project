@@ -2,7 +2,7 @@
 
 This is a Java 21 template with Maven and JUnit. It can be used to experiment with many modern Java
 features, and experience which functional features Java offers. You can use this template, for
-example, to build a compiler.
+example, to build a compiler. 
 
 ## Usage
 
